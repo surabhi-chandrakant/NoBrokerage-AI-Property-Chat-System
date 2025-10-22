@@ -2,7 +2,7 @@
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
 
 An intelligent, GPT-like chat interface that helps users discover properties through natural language queries. Built as part of the **NoBrokerage.com AI Engineer Intern Task**.
 
@@ -73,30 +73,7 @@ And responds with:
 
 ---
 
-## 📁 Project Structure
 
-```
-NoBrokerage-AI-Property-Chat-System/
-│
-├── app.py                              # Main application file
-├── requirements.txt                    # Python dependencies
-├── README.md                          # This file
-├── .gitignore                         # Git ignore file
-│
-├── data/                              # CSV data files
-│   ├── project.csv
-│   ├── ProjectAddress.csv
-│   ├── ProjectConfiguration.csv
-│   └── ProjectConfigurationVariant.csv
-│
-├── screenshots/                       # Application screenshots
-│   ├── chat-interface.png
-│   ├── property-cards.png
-│   └── search-results.png
-│
-└── docs/                             # Documentation
-    └── ARCHITECTURE.md
-```
 
 ---
 
@@ -172,16 +149,6 @@ The system intelligently extracts:
 
 ---
 
-## 🎨 Screenshots
-
-### Chat Interface
-![Chat Interface](screenshots/chat-interface.png)
-
-### Property Cards
-![Property Cards](screenshots/property-cards.png)
-
-### Search Results
-![Search Results](screenshots/search-results.png)
 
 ---
 
@@ -196,36 +163,6 @@ The system intelligently extracts:
 | **Styling** | Custom CSS |
 | **Version Control** | Git & GitHub |
 
----
-
-## 📈 Evaluation Criteria Coverage
-
-| Criteria | Status | Score |
-|----------|--------|-------|
-| **Query Understanding** | ✅ Implemented | 30/30 |
-| **Result Accuracy** | ✅ Implemented | 25/25 |
-| **Summary Generation** | ✅ Implemented | 20/20 |
-| **Code Quality** | ✅ Implemented | 15/15 |
-| **UI/UX Polish** | ✅ Implemented | 10/10 |
-| **Total** | | **100/100** |
-
----
-
-## 🚀 Deployment
-
-### Deploy on Streamlit Cloud (Recommended)
-
-1. Push your code to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io/)
-3. Connect your GitHub repository
-4. Select `app.py` as the main file
-5. Click "Deploy"
-
-### Alternative Deployment Options
-
-- **Heroku** - See `docs/HEROKU_DEPLOYMENT.md`
-- **AWS EC2** - See `docs/AWS_DEPLOYMENT.md`
-- **Docker** - See `Dockerfile`
 
 ---
 
@@ -273,11 +210,8 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -286,8 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Surabhi Chandrakant**
 
 - GitHub: [@surabhi-chandrakant](https://github.com/surabhi-chandrakant)
-- LinkedIn: [Your LinkedIn](#)
-- Email: your.email@example.com
+
 
 ---
 
@@ -299,19 +232,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
 
-If you have any questions or need help with the project:
 
-- 📧 Email: your.email@example.com
-- 💬 Open an [Issue](https://github.com/surabhi-chandrakant/NoBrokerage-AI-Property-Chat-System/issues)
-- 📖 Check the [Documentation](docs/)
 
----
-
-## ⭐ Show Your Support
-
-If you found this project helpful, please give it a ⭐️!
 
 ---
 
